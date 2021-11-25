@@ -1,0 +1,4 @@
+pytelegrambotapi
+transformers==2.8.0
+markovify
+torch==1.7.1
