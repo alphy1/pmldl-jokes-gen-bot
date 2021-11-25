@@ -3,7 +3,7 @@ Telegram bot that can generate jokes on russian language
 
 ## Navigation
 * reports - 4 project deliverable reports
-* datasets - 2 files with datasets and 2 files that generate them
+* datasets - 1 file with dataset and 2 files that generate datasets from 2 different sources, dataset from anekdoty.ru is too large
 * src - 2 jupyter notebooks that contain code to install all dependencies, prepare data and train model
 * rugpt3_model.zip - trained on the datasets model, check results using:
 ```
